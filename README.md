@@ -1,5 +1,5 @@
 ## Azure Databricks  - Python & Dev Ops
-#### Editted by Laura Edell on April 4, 2019
+#### Editted by Laura Edell on April 4, 2019 & Updated June 19, 2019
 
 ## Hands on Lab – Abstract
 This hands on lab is designed for the scenario where a team of scientists and engineers are responsible for the development, maintenance and quality of analytical models which are made available to other teams for consumption.
